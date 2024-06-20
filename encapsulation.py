@@ -69,7 +69,7 @@ print(my_animal.display_name_and_sound())
 
 
 
-
+# this is another example of encapsulation
 
 #
 #
